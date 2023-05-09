@@ -1,0 +1,56 @@
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\bin\Debug\net6.0-windows\ıste projesi.exe
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\bin\Debug\net6.0-windows\ıste projesi.deps.json
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\bin\Debug\net6.0-windows\ıste projesi.runtimeconfig.json
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\bin\Debug\net6.0-windows\ıste projesi.dll
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\bin\Debug\net6.0-windows\ıste projesi.pdb
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\obj\Debug\net6.0-windows\ıste projesi.csproj.AssemblyReference.cache
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\obj\Debug\net6.0-windows\ıste_projesi.Form1.resources
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\obj\Debug\net6.0-windows\ıste_projesi.Properties.Resources.resources
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\obj\Debug\net6.0-windows\ıste projesi.csproj.GenerateResource.cache
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\obj\Debug\net6.0-windows\ıste projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\obj\Debug\net6.0-windows\ıste projesi.AssemblyInfoInputs.cache
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\obj\Debug\net6.0-windows\ıste projesi.AssemblyInfo.cs
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\obj\Debug\net6.0-windows\ıste projesi.csproj.CoreCompileInputs.cache
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\obj\Debug\net6.0-windows\ıste projesi.csproj.CopyComplete
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\obj\Debug\net6.0-windows\ıste projesi.dll
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\obj\Debug\net6.0-windows\refint\ıste projesi.dll
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\obj\Debug\net6.0-windows\ıste projesi.pdb
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\obj\Debug\net6.0-windows\ıste projesi.genruntimeconfig.cache
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\obj\Debug\net6.0-windows\ref\ıste projesi.dll
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\الفرات للاتصالات\Desktop\parfum mağaza\ıste projesi\ıste projesi\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\bin\Debug\net6.0-windows\ıste projesi.exe
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\bin\Debug\net6.0-windows\ıste projesi.deps.json
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\bin\Debug\net6.0-windows\ıste projesi.runtimeconfig.json
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\bin\Debug\net6.0-windows\ıste projesi.dll
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\bin\Debug\net6.0-windows\ıste projesi.pdb
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\obj\Debug\net6.0-windows\ıste projesi.csproj.AssemblyReference.cache
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\obj\Debug\net6.0-windows\ıste_projesi.Properties.Resources.resources
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\obj\Debug\net6.0-windows\ıste projesi.csproj.GenerateResource.cache
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\obj\Debug\net6.0-windows\ıste projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\obj\Debug\net6.0-windows\ıste projesi.AssemblyInfoInputs.cache
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\obj\Debug\net6.0-windows\ıste projesi.AssemblyInfo.cs
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\obj\Debug\net6.0-windows\ıste projesi.csproj.CoreCompileInputs.cache
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\obj\Debug\net6.0-windows\ıste projesi.csproj.CopyComplete
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\obj\Debug\net6.0-windows\ıste projesi.dll
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\obj\Debug\net6.0-windows\refint\ıste projesi.dll
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\obj\Debug\net6.0-windows\ıste projesi.pdb
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\obj\Debug\net6.0-windows\ıste projesi.genruntimeconfig.cache
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\obj\Debug\net6.0-windows\ref\ıste projesi.dll
+C:\Users\الفرات للاتصالات\Desktop\donem-projesi-batool-elibrahim\ıste projesi\obj\Debug\net6.0-windows\ıste_projesi.LoginScreeen.resources
